@@ -1,0 +1,169 @@
+{
+  "channels": [
+    {
+      "tvnum": "1",
+      "tvname": "CCTV-1",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+    },
+    {
+      "tvnum": "2",
+      "tvname": "CCTV-2",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
+    },
+    {
+      "tvnum": "3",
+      "tvname": "CCTV-3",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+    },
+    {
+      "tvnum": "4",
+      "tvname": "CCTV-4",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
+    },
+    {
+      "tvnum": "5",
+      "tvname": "CCTV-5",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+    },
+    {
+      "tvnum": "6",
+      "tvname": "CCTV-5+",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+    },
+    {
+      "tvnum": "7",
+      "tvname": "CCTV-6",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+    },
+    {
+      "tvnum": "8",
+      "tvname": "CCTV-7",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv7.m3u8"
+    },
+    {
+      "tvnum": "9",
+      "tvname": "CCTV-8",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
+    },
+    {
+      "tvnum": "10",
+      "tvname": "CCTV-9",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv9.m3u8"
+    },
+    {
+      "tvnum": "11",
+      "tvname": "CCTV-10",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8"
+    },
+    {
+      "tvnum": "12",
+      "tvname": "CCTV-11",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv11.m3u8"
+    },
+    {
+      "tvnum": "13",
+      "tvname": "CCTV-12",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
+    },
+    {
+      "tvnum": "14",
+      "tvname": "CCTV-13",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
+    },
+    {
+      "tvnum": "15",
+      "tvname": "CCTV-14",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv14.m3u8"
+    },
+    {
+      "tvnum": "16",
+      "tvname": "CCTV-15",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
+    },
+    {
+      "tvnum": "17",
+      "tvname": "CGTN",
+      "tvurl": "https://live.cgtn.com/1000/prog_index.m3u8"
+    },
+    {
+      "tvnum": "18",
+      "tvname": "CGTN-DOC",
+      "tvurl": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+    },
+    {
+      "tvnum": "19",
+      "tvname": "CHC电影",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+    },
+    {
+      "tvnum": "20",
+      "tvname": "北京卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
+    },
+    {
+      "tvnum": "21",
+      "tvname": "湖南卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
+    },
+    {
+      "tvnum": "22",
+      "tvname": "浙江卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
+    },
+    {
+      "tvnum": "23",
+      "tvname": "江苏卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/jshd.m3u8"
+    },
+    {
+      "tvnum": "24",
+      "tvname": "东方卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
+    },
+    {
+      "tvnum": "25",
+      "tvname": "安徽卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
+    },
+    {
+      "tvnum": "26",
+      "tvname": "黑龙江卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
+    },
+    {
+      "tvnum": "27",
+      "tvname": "辽宁卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
+    },
+    {
+      "tvnum": "28",
+      "tvname": "深圳卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/szhd.m3u8"
+    },
+    {
+      "tvnum": "29",
+      "tvname": "广东卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
+    },
+    {
+      "tvnum": "30",
+      "tvname": "天津卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
+    },
+    {
+      "tvnum": "31",
+      "tvname": "湖北卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/hbhd.m3u8"
+    },
+    {
+      "tvnum": "32",
+      "tvname": "山东卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/sdhd.m3u8"
+    },
+    {
+      "tvnum": "33",
+      "tvname": "重庆卫视",
+      "tvurl": "http://ivi.bupt.edu.cn/hls/cqhd.m3u8"
+    }
+  ]
+}
